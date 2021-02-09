@@ -1,0 +1,22 @@
+
+.main-container {
+  text-align: center;
+  background: rgb(205, 245, 204);
+  font-family: "Comic Sans MS";
+  min-height: 100vh;
+}
+h1{
+  color:darkgreen;
+  margin-top: 0;
+  padding-top: 5vh;
+}
+#num{
+  height: 45px;
+  width: 45px;
+  font-size: x-large;
+  border: none;
+  text-align: center;
+}
+
+
+
